@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=400&section=header&text=It's%20NoCodeNoLife&&fontColor=FC60A8&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=400&section=header&text=No%20Code%20No%20Life&&fontColor=FC60A8&fontSize=90)
 
 
 <!--
