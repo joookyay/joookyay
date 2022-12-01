@@ -12,4 +12,4 @@
 <h4> tools </h4>
 
 <h2> 📧 Contact </h2>
-jookyung91@gmail.com
+📧 email: jookyung91@gmail.com
