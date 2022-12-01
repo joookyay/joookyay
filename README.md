@@ -1,5 +1,6 @@
+<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=400&section=header&text=No%20Code%20No%20Life&&fontColor=FC60A8&fontSize=90)
-
+</div>
 🤹🏻 Skills
 platforms & languages 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
