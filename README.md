@@ -17,6 +17,9 @@
 </div>
 
 <h4> tools </h4>
+<div>
+   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+</div>
 
 <h2> 📡 Contact </h2>
 📧 email: jookyung91@gmail.com
